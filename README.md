@@ -1,6 +1,8 @@
 # Natural Language Processing with Python
 my documentation to learn more the basic concepts of NLP using Python
 
+(still on progress -> until August'22)
+
 ## Python text 
 - basic print formatting
 - f-string literals
